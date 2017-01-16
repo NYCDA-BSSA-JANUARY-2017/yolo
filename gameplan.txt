@@ -1,0 +1,7 @@
+Organization of folders							DONE
+
+Bootstrap needs to be in it.					DONE				
+	- I rip a template							
+
+jQuery needs to be in it somehow.				DONEs		
+	- use the jQuery click() function.
